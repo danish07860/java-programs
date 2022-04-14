@@ -18,7 +18,7 @@ public class Prime {
 	{
 		if(num==1)
 		{
-			return true;
+			return false;
 		}
 		for(int i=2;i<num;i++)
 		{
